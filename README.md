@@ -40,4 +40,4 @@ This project focused on three particular sets of data collected from multiple fi
 
 ## Contributing Member
 
-**Blake Dalton (https://github.com/wblakedalton)(@wblakedalton)
+** Blake Dalton (https://github.com/wblakedalton)(@wblakedalton)
